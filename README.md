@@ -58,8 +58,8 @@ Effective: 07/14/2022
 
 This Privacy Policy ("Policy") explains how information about your data is collected and used by the Owner of the Dropdown Roles Discord bot (“our” or “we”) while using the Dropdown Roles Discord bot (the “Service”). By using our Service, you agree with this Policy.
 
-**Data We Collect:** 
-- We do not collect any data/store any user data.
+**Data We Store:** 
+- We do not store any user data.
 
 
 **Revisions to this Policy:**
